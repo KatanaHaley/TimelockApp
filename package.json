@@ -1,0 +1,17 @@
+{
+  "name": "ethchallenge",
+  "version": "0.8.0",
+  "description": "transfer and donate tokens",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katana Haley",
+  "license": "ISC",
+  "devDependencies": {
+    "openzeppelin-solidity": "^4.3.0"
+  }
+}
