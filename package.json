@@ -12,6 +12,12 @@
   "author": "Katana Haley",
   "license": "ISC",
   "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.13",
     "openzeppelin-solidity": "^4.3.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "ganache-cli": "^6.12.2"
   }
 }
